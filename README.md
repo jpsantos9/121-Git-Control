@@ -14,7 +14,7 @@
 5. Add the changes you want to apply
 6. Create a new branch for the changes you've applied ```git checkout -b <branch-name>```
 7. Add the files that you what to commit ```git add .```
-8. Commit the changes ```git commit -m "<description of changes>```
+8. Commit the changes ```git commit -m "<description of changes>"```
 9. After commiting all the changes you can now push your changes into the remote branch ```git push <origin> <branch-name>```
 10. By this time you should now ba able to see your changes in the github project
 ### The following steps may now vary (depends on company, team, standard, etc)
