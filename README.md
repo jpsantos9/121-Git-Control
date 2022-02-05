@@ -17,4 +17,9 @@
 8. Commit the changes ```git commit -m "<description of changes>```
 9. After commiting all the changes you can now push your changes into the remote branch ```git push <origin> <branch-name>```
 10. By this time you should now ba able to see your changes in the github project
-The following steps may now vary (depends on company, team, standard, etc)
+### The following steps may now vary (depends on company, team, standard, etc)
+11. Create a Pull Request (PR/MR)
+12. Select the base branch (where you want to apply the changes) and compare branch (branch containing your changes)
+13. Add a title and description for your PR
+14. Assign the PR to your Tech Lead (TL) or any one who can review you code
+15. After reviewing and resolving comments your branch will now be merge to the base branch 
