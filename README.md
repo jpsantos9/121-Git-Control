@@ -1,4 +1,4 @@
-# 121_Sample_Codes
+# 121 Git Control
 
 ## Steps to Clone Repository in Local Machine:
 1. Open git bash
